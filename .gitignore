@@ -15,5 +15,6 @@
 .cxx
 src/main/java/com/bilibili/ui/快速编译.bat
 日报.bat
-/resource/**
+/resource/*
+!/resource/json
 /target
