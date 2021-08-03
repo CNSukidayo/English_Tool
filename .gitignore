@@ -16,6 +16,6 @@
 src/main/java/com/bilibili/ui/快速编译.bat
 日报.bat
 /resource/*
-/resource/json/word.md
+resource/json/word.md
 !/resource/json
 /target
