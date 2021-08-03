@@ -133,4 +133,8 @@ public class ChineseInput {
     public PartOfSpeechEnum getPartOfSpeech() {
         return partOfSpeech;
     }
+
+    public JPanel getRowJPanel() {
+        return rowJPanel;
+    }
 }

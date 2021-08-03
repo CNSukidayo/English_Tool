@@ -16,9 +16,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Paths;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * @author sukidayo
@@ -92,7 +91,8 @@ public class Dictation extends AbsPage implements Page {
     private final Color darkGreen = new Color(0x19610A);
     // 黑暗红色
     private final Color darkRed = new Color(0x580513);
-
+    // 第几天
+    private final int day = Integer.parseInt(EnglishToolFrame.audioPath.replaceAll("[day]",""));
     // 当前页面快捷键
     public Dictation(JFrame jFrame) {
         super(jFrame);
@@ -128,7 +128,7 @@ public class Dictation extends AbsPage implements Page {
         this.check.setVisible(home.getMode() != Mode.INPUT);
         this.sign.setVisible(home.getMode() != Mode.INPUT);
         this.signMode.setVisible(home.getMode() != Mode.INPUT);
-        words = new HashMap<>(100);
+        // words = new HashMap<>(100);
         current = 0;
         signArray = new boolean[home.getWords().size()];
         flush();
@@ -183,7 +183,10 @@ public class Dictation extends AbsPage implements Page {
         this.chineseJPanel.setLayout(null);
         this.chineseJPanel.addMouseWheelListener(getMouseWheelMouseAdapter());
         this.allChineseInput = new AllChineseInput(chineseJPanel, writeFont);
-
+        this.allChineseInput.setFinishAdapter((s) -> {
+            operatingName = s;
+            playEvent.mousePressed(null);
+        });
         // 垂直
         this.moveHorizontally.setBounds(470, 180, 30, 230);
         Color green = Color.GREEN;
@@ -379,7 +382,7 @@ public class Dictation extends AbsPage implements Page {
                     // 只要模式不是听写模式就显示当前播报的单词
                     result.setText("");
                     if (home.getMode() == Mode.INPUT) {
-                        result.setText(allFiles[current].getName().substring(0, allFiles[current].getName().lastIndexOf('.')).replaceAll("[0-9]", ""));
+                        result.setText(allFiles[current].getName().substring(0, allFiles[current].getName().lastIndexOf('.')));
                     } else if (home.getMode() == Mode.TRANSLATION) {
                         result.setText(home.getWords().get(current).getEnglish());
                     }
@@ -400,12 +403,37 @@ public class Dictation extends AbsPage implements Page {
     }
 
     private File[] allFiles;
+    private Set<String> duplicateTree = new HashSet<>();
 
     /**
      * 当模式为录入模式时才会调用该方法
      */
     public void allFiles() {
-        allFiles = Paths.get(EnglishToolFrame.basePath + EnglishToolFrame.audioPath).toFile().listFiles();
+        int current = 0;
+        List<File> temp;
+        temp = Arrays.asList(Objects.requireNonNull(Paths.get(EnglishToolFrame.basePath + EnglishToolFrame.audioPath).toFile().listFiles()));
+        temp.sort(Comparator.comparingInt(o -> Integer.parseInt(o.getName().substring(0, o.getName().indexOf('.')).replaceAll("[a-zA-Z|\\-|' ]", ""))));
+        words = new HashMap<>(100);
+        allFiles = new File[temp.size()];
+        // 现在添加去重功能
+        final List<File> duplicate = new ArrayList<>(26);
+        duplicate.add(new File("D:\\Java Project\\English Tool\\resource\\json\\basic.json"));
+        File baseFile = new File(EnglishToolFrame.basePath + EnglishToolFrame.json);
+        for (int i = 1; i <= 25; i++) {
+            duplicate.add(new File(baseFile, "day" + i + ".json"));
+        }
+        for (File file : duplicate) {
+            for (Word word : JSONUtil.parseArray(JSONUtil.readJSON(file, StandardCharsets.UTF_8).toStringPretty()).toList(Word.class)) {
+                duplicateTree.add(word.getEnglish());
+            }
+        }
+        for (int i = 0; i < temp.size(); i++) {
+            String name = temp.get(i).getName();
+            if (!duplicateTree.contains(name.substring(0, name.indexOf('.')).replaceAll("[0-9]", ""))) {
+                allFiles[current++] = temp.get(i);
+            }
+        }
+        allFiles = Arrays.copyOf(allFiles, current, File[].class);
     }
 
     public void setHome(Home home) {
@@ -505,9 +533,12 @@ public class Dictation extends AbsPage implements Page {
     }
 
     private void saveWord() {
+        if (!allChineseInput.needSave()) {
+            return;
+        }
         Word word = new Word();
-        word.setDays(1);
-        word.setCategory(WordCategory.CORE);
+        word.setDays(day);
+        word.setCategory(WordCategory.COGNIYIVE);
         if (home.getMode() == Mode.INPUT) {
             word.setEnglish(allFiles[current].getName().substring(0, allFiles[current].getName().lastIndexOf('.')).replaceAll("[0-9]", ""));
             word.setAudioPath(allFiles[current].getPath());

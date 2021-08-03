@@ -79,10 +79,12 @@ public class AudioPlayer {
 
 
     public void stop() {
-        if (player != null) {
-            player.close();
+        synchronized (AudioPlayer.class) {
+            if (player != null) {
+                player.close();
+            }
+            queue.clear();
         }
-        queue.clear();
     }
 
     public void destroy() {

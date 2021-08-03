@@ -14,7 +14,7 @@ public class EnglishToolFrame {
     // 资源地址
     public static final String basePath = "D:/Java Project/English Tool/resource/";
     // 音频地址(仅对输入模式起效果)
-    public static final String audioPath = "day14";
+    public static final String audioPath = "day30";
 
     // json地址
     public static final String json = "json";

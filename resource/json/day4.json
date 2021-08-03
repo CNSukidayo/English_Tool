@@ -17,7 +17,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\01control.mp3",
         "english": "control",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -38,7 +38,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\02controllable.mp3",
         "english": "controllable",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -59,7 +59,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\03dominate.mp3",
         "english": "dominate",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -80,7 +80,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\04harness.mp3",
         "english": "harness",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -101,7 +101,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\05manipulate.mp3",
         "english": "manipulate",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -122,7 +122,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\06curb.mp3",
         "english": "curb",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -143,7 +143,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\07restrict.mp3",
         "english": "restrict",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -164,7 +164,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\08confine.mp3",
         "english": "confine",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -185,7 +185,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\09refrain.mp3",
         "english": "refrain",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -206,7 +206,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\10restrain.mp3",
         "english": "restrain",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -227,7 +227,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\11amount.mp3",
         "english": "amount",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -248,7 +248,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\12sum.mp3",
         "english": "sum",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -269,7 +269,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\13project.mp3",
         "english": "project",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -290,7 +290,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\14scheme.mp3",
         "english": "scheme",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -311,7 +311,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\15proportion.mp3",
         "english": "proportion",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -332,7 +332,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\16proportional.mp3",
         "english": "proportional",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -353,7 +353,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\17rate.mp3",
         "english": "rate",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -374,7 +374,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\18concern.mp3",
         "english": "concern",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -395,7 +395,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\19concerned.mp3",
         "english": "concerned",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -416,7 +416,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\20incident.mp3",
         "english": "incident",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -437,7 +437,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\21affair.mp3",
         "english": "affair",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -458,7 +458,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\22event.mp3",
         "english": "event",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -479,7 +479,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\23eventful.mp3",
         "english": "eventful",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -500,7 +500,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\24trifle.mp3",
         "english": "trifle",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -521,7 +521,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\25assign.mp3",
         "english": "assign",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -542,7 +542,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\26appoint.mp3",
         "english": "appoint",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -563,7 +563,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\27appointment.mp3",
         "english": "appointment",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -584,7 +584,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\28retire.mp3",
         "english": "retire",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -605,7 +605,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\29resign.mp3",
         "english": "resign",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -626,7 +626,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\30quit.mp3",
         "english": "quit",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -647,7 +647,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\31depart.mp3",
         "english": "depart",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -668,7 +668,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\32departure.mp3",
         "english": "departure",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -689,7 +689,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\33link.mp3",
         "english": "link",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -710,7 +710,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\34connect.mp3",
         "english": "connect",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -731,7 +731,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\35relate.mp3",
         "english": "relate",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -752,7 +752,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\36contact.mp3",
         "english": "contact",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -773,7 +773,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\37associate.mp3",
         "english": "associate",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -794,7 +794,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\38attach.mp3",
         "english": "attach",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -815,7 +815,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\39attachment.mp3",
         "english": "attachment",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -836,7 +836,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\40bond.mp3",
         "english": "bond",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -857,7 +857,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\41persist.mp3",
         "english": "persist",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -878,7 +878,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\42insist.mp3",
         "english": "insist",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -899,7 +899,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\43insistence.mp3",
         "english": "insistence",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -920,7 +920,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\44persevere.mp3",
         "english": "persevere",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -941,7 +941,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\45perseverance.mp3",
         "english": "perseverance",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -962,7 +962,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\46absent.mp3",
         "english": "absent",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -983,7 +983,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\47absence.mp3",
         "english": "absence",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1004,7 +1004,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\48present.mp3",
         "english": "present",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1025,7 +1025,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\49circumstance.mp3",
         "english": "circumstance",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1046,7 +1046,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\50condition.mp3",
         "english": "condition",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1067,7 +1067,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\51conditional.mp3",
         "english": "conditional",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1088,7 +1088,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\52compel.mp3",
         "english": "compel",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1109,7 +1109,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\53force.mp3",
         "english": "force",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1130,7 +1130,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\54oblige.mp3",
         "english": "oblige",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1151,7 +1151,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\55involve.mp3",
         "english": "involve",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1172,7 +1172,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\56evovle.mp3",
         "english": "evovle",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1193,7 +1193,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\57revolve.mp3",
         "english": "revolve",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1214,7 +1214,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\58apply.mp3",
         "english": "apply",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1235,7 +1235,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\59exploit.mp3",
         "english": "exploit",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1256,7 +1256,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\60recycle.mp3",
         "english": "recycle",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1277,7 +1277,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\61engage.mp3",
         "english": "engage",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1298,7 +1298,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\62employ.mp3",
         "english": "employ",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1319,7 +1319,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\63employer.mp3",
         "english": "employer",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1340,7 +1340,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\64clause.mp3",
         "english": "clause",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1361,7 +1361,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\65item.mp3",
         "english": "item",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1382,7 +1382,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\66material.mp3",
         "english": "material",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1403,7 +1403,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\67mental.mp3",
         "english": "mental",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1424,7 +1424,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\68measure.mp3",
         "english": "measure",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1445,7 +1445,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\69measureable.mp3",
         "english": "measureable",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1466,7 +1466,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\70dimension.mp3",
         "english": "dimension",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1487,7 +1487,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\71target.mp3",
         "english": "target",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1508,7 +1508,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\72purpose.mp3",
         "english": "purpose",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1529,7 +1529,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\73purposeful.mp3",
         "english": "purposeful",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1550,7 +1550,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\74intention.mp3",
         "english": "intention",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1571,7 +1571,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\75intentional.mp3",
         "english": "intentional",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1592,7 +1592,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\76motive.mp3",
         "english": "motive",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1613,7 +1613,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\77advise.mp3",
         "english": "advise",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1634,7 +1634,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\78advisable.mp3",
         "english": "advisable",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1655,7 +1655,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\79advice.mp3",
         "english": "advice",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1676,7 +1676,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\80counsel.mp3",
         "english": "counsel",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1697,7 +1697,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\81recommend.mp3",
         "english": "recommend",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1718,7 +1718,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\82persuade.mp3",
         "english": "persuade",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1739,7 +1739,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\83convince.mp3",
         "english": "convince",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1760,7 +1760,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\84mobile.mp3",
         "english": "mobile",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1781,7 +1781,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\85promote.mp3",
         "english": "promote",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1802,7 +1802,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\86remote.mp3",
         "english": "remote",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1823,7 +1823,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\87recession.mp3",
         "english": "recession",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1844,7 +1844,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\88vehicle.mp3",
         "english": "vehicle",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     },
     {
@@ -1865,7 +1865,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day4\\89introduce.mp3",
         "english": "introduce",
-        "days": 1,
+        "days": 4,
         "category": "CORE"
     }
 ]

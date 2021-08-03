@@ -5,8 +5,11 @@ import com.bilibili.core.Word;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Consumer;
 
 /**
  * @author sukidayo
@@ -15,12 +18,38 @@ import java.util.List;
 public class AllChineseInput {
     private final List<ChineseInput> allChineseInputList;
     private final JPanel targetPanel;
+    private Consumer<String> finishAdapter;
 
     public AllChineseInput(JPanel targetPanel, Font writeFont) {
         this.targetPanel = targetPanel;
         this.allChineseInputList = new ArrayList<>(PartOfSpeechEnum.values().length);
         for (int i = 0; i < PartOfSpeechEnum.values().length; i++) {
-            allChineseInputList.add(new ChineseInput(PartOfSpeechEnum.values()[i], writeFont, targetPanel, i));
+            ChineseInput chineseInput = new ChineseInput(PartOfSpeechEnum.values()[i], writeFont, targetPanel, i);
+            chineseInput.getChineseInputJTextField().addKeyListener(new KeyAdapter() {
+                @Override
+                public void keyPressed(KeyEvent e) {
+                    if (e.getKeyCode() == KeyEvent.VK_RIGHT) {
+                        finishAdapter.accept("next");
+                    } else if (e.getKeyCode() == KeyEvent.VK_LEFT) {
+                        finishAdapter.accept("pre");
+                    } else if (e.getKeyCode() == KeyEvent.VK_UP) {
+                        int focus = getFocus();
+                        if (focus == 0) {
+                            focus = allChineseInputList.size();
+                        }
+                        allChineseInputList.get(--focus).getChineseInputJTextField().requestFocus();
+                        moveXY(0, 40 * focus);
+                    } else if (e.getKeyCode() == KeyEvent.VK_DOWN) {
+                        int focus = getFocus();
+                        if (focus == allChineseInputList.size() - 1) {
+                            focus = -1;
+                        }
+                        allChineseInputList.get(++focus).getChineseInputJTextField().requestFocus();
+                        moveXY(0, 40 * focus);
+                    }
+                }
+            });
+            allChineseInputList.add(chineseInput);
         }
     }
 
@@ -82,10 +111,31 @@ public class AllChineseInput {
         }
     }
 
+    public boolean needSave() {
+        boolean flag = false;
+        for (ChineseInput chineseInput : allChineseInputList) {
+            if (!chineseInput.getChineseInputJTextField().getText().isEmpty()) {
+                flag = true;
+                break;
+            }
+        }
+        return flag;
+    }
+
+    public void setFinishAdapter(Consumer<String> finishAdapter) {
+        this.finishAdapter = finishAdapter;
+    }
+
     void mouseReleased() {
         for (ChineseInput chineseInput : allChineseInputList) {
             chineseInput.mouseReleased();
         }
+    }
+
+    private int getFocus() {
+        for (int i = 0; i < allChineseInputList.size(); i++)
+            if (allChineseInputList.get(i).getChineseInputJTextField().hasFocus()) return i;
+        return 0;
     }
 
 }
