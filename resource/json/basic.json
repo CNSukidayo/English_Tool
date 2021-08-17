@@ -556,7 +556,7 @@
             "N": "玫瑰花",
             "ADV": "",
             "VI": "",
-            "V": "",
+            "V": "起立;上升",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
@@ -7312,13 +7312,13 @@
             "ART": "",
             "PRON": "",
             "NUM": "",
-            "ADJ": "最近的",
+            "ADJ": "",
             "PREP": "",
             "INT": "",
             "N": "",
             "ADV": "",
             "VI": "",
-            "V": "",
+            "V": "到达",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
@@ -8467,7 +8467,7 @@
             "ART": "",
             "PRON": "",
             "NUM": "",
-            "ADJ": "快的",
+            "ADJ": "快速的",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -8479,7 +8479,7 @@
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\404repid.mp3",
-        "english": "repid",
+        "english": "rapid",
         "days": 31,
         "category": "BASIS"
     },

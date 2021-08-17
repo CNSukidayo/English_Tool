@@ -1,0 +1,65 @@
+[
+    {
+        "allChineseMap": {
+            "ART": "",
+            "PRON": "",
+            "NUM": "",
+            "ADJ": "",
+            "PREP": "",
+            "INT": "",
+            "N": "缺点",
+            "ADV": "",
+            "VI": "",
+            "V": "",
+            "CONJ": "",
+            "PHTASESANDCOLLOCATION": "",
+            "VT": ""
+        },
+        "audioPath": "",
+        "english": "drawback",
+        "days": 32,
+        "category": "BASIS"
+    },
+    {
+        "allChineseMap": {
+            "ART": "",
+            "PRON": "",
+            "NUM": "",
+            "ADJ": "",
+            "PREP": "",
+            "INT": "",
+            "N": "贫困",
+            "ADV": "",
+            "VI": "",
+            "V": "",
+            "CONJ": "",
+            "PHTASESANDCOLLOCATION": "",
+            "VT": ""
+        },
+        "audioPath": "",
+        "english": "poverty",
+        "days": 32,
+        "category": "BASIS"
+    },
+    {
+        "allChineseMap": {
+            "ART": "",
+            "PRON": "",
+            "NUM": "",
+            "ADJ": "",
+            "PREP": "",
+            "INT": "",
+            "N": "动机",
+            "ADV": "",
+            "VI": "",
+            "V": "",
+            "CONJ": "",
+            "PHTASESANDCOLLOCATION": "",
+            "VT": ""
+        },
+        "audioPath": "",
+        "english": "motivation",
+        "days": 32,
+        "category": "BASIS"
+    }
+]
