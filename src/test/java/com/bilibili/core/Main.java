@@ -1,7 +1,13 @@
 package com.bilibili.core;
 
+import cn.hutool.core.bean.BeanUtil;
+import cn.hutool.json.JSONUtil;
+
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -11,7 +17,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        run1();
+        run4();
     }
 
     public static void run1() {
@@ -67,6 +73,28 @@ public class Main {
             list.remove(i);
         }
         System.out.println(list);
+    }
+
+    public static void run4() {
+        File[] files = new File("D:\\Java Project\\English Tool\\resource\\json").listFiles();
+        for (File file : files) {
+            List<Word> words = JSONUtil.parseArray(JSONUtil.readJSON(file, StandardCharsets.UTF_8).toStringPretty()).toList(Word.class);
+            List<Word2> target = new ArrayList<>(words.size());
+            for (Word word : words) {
+                String prep = word.getAllChineseMap().remove(PartOfSpeechEnum.PHTASESANDCOLLOCATION);
+                Word2 word2 = BeanUtil.copyProperties(word, Word2.class, "");
+                word2.setPREPPhrase(prep);
+                if (word2.getDiscriminate() == null) {
+                    word2.setDiscriminate("");
+                }
+                target.add(word2);
+            }
+            try (BufferedWriter writer = new BufferedWriter(new FileWriter("D:\\Java Project\\English Tool\\resource\\newJson\\" + file.getName()))) {
+                JSONUtil.parse(target).write(writer, 4, 0);
+            } catch (IOException ioException) {
+                ioException.printStackTrace();
+            }
+        }
     }
 
 }

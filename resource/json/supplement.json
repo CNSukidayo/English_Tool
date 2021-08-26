@@ -3,8 +3,8 @@
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "缺点",
@@ -12,20 +12,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "drawback",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "巧合",
@@ -33,20 +34,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "coincidence",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "令人愉快的;吸引人的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -54,20 +56,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "pleasant",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "死亡",
@@ -75,20 +78,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "mortality rate 死亡率",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "mortality rate 死亡率",
         "english": "mortality",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "轮到你了;尝试",
@@ -96,20 +100,21 @@
             "VI": "",
             "V": "走",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "go for 挑选;适用于",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "go for 挑选;适用于",
         "english": "go",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -117,20 +122,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "get through 度过;做完\nget on with 和某人相处\nget around 传遍",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "get through 度过;做完\nget on with 和某人相处\nget around 传遍",
         "english": "get",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -138,20 +144,21 @@
             "VI": "",
             "V": "透彻理解;同化",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "assimilate",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "难以控制",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -159,21 +166,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
-        "discriminate": "一般表示感情上无法控制从而不得不做某事.",
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "compulsive",
         "days": 32,
+        "discriminate": "一般表示感情上无法控制从而不得不做某事.",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "种族",
@@ -181,21 +188,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
-        "discriminate": "",
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "racial",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "愚蠢的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -203,21 +210,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
-        "discriminate": "",
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "silly",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "健康的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -225,21 +232,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
-        "discriminate": "",
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "healthy",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "有益健康的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -247,21 +254,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
-        "discriminate": "",
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "healthful",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -269,21 +276,21 @@
             "VI": "",
             "V": "压缩",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
-        "discriminate": "",
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "compress",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "骄傲的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -291,21 +298,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
-        "discriminate": "",
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "proud",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -313,21 +320,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "all in all 总之\nabove all 总之\nafter all 毕竟\nover all 遍及",
             "VT": ""
         },
-        "discriminate": "",
         "audioPath": "",
+        "PREPPhrase": "all in all 总之\nabove all 总之\nafter all 毕竟\nover all 遍及",
         "english": "all",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "引起轰动的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -335,21 +342,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
-        "discriminate": "",
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "sensational",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "恐惧",
@@ -357,20 +364,21 @@
             "VI": "",
             "V": "非常害怕",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "dread",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "幸运的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -378,20 +386,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "fortune引申而来",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "fortune引申而来",
         "english": "fortunate",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "个人的;私人的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -399,20 +408,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "personal",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "名字",
@@ -420,20 +430,21 @@
             "VI": "",
             "V": "给...命名",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "in the name of 以...的名义",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "in the name of 以...的名义",
         "english": "name",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "人道主义的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "人道主义",
@@ -441,20 +452,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "由humanity引申",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "由humanity引申",
         "english": "humanitarian",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "远的",
             "PRON": "",
-            "NUM": "",
             "ADJ": "远的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -462,20 +474,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "far from 根本不",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "far from 根本不",
         "english": "far",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -483,20 +496,21 @@
             "VI": "",
             "V": "学习",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "learn from... 向谁学习",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "learn from... 向谁学习",
         "english": "learn",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -504,20 +518,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "away from... 离开",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "away from... 离开",
         "english": "away",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "极高价值的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -525,20 +540,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "invaluable",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "规章制度",
@@ -546,20 +562,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "regulation",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -567,20 +584,21 @@
             "VI": "",
             "V": "超过",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "surpass",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "喷嚏",
@@ -588,20 +606,21 @@
             "VI": "",
             "V": "打喷嚏",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "sneeze",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "手帕",
@@ -609,20 +628,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "handkerchief",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "打呼噜(声)",
@@ -630,20 +650,21 @@
             "VI": "",
             "V": "打呼噜",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "snore",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -651,20 +672,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "carefully",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -672,20 +694,21 @@
             "VI": "",
             "V": "付费",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "paid",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "官僚主义的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -693,20 +716,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "由bureau引申来",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "由bureau引申来",
         "english": "bureaucratic",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "(人、团体、国家之间的)关系;亲戚",
@@ -714,21 +738,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
-        "discriminate": "relate、relation、relative",
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "relation",
         "days": 32,
+        "discriminate": "relate、relation、relative",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "抱负;志向",
@@ -736,20 +760,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "aspiration",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "精彩的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -757,20 +782,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "wonderful",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "引起回忆的事物",
@@ -778,20 +804,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "reminder",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "绝望的;不顾一切的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -799,20 +826,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "desperate",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "最坏的;最糟糕的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "最严重的事情",
@@ -820,20 +848,21 @@
             "VI": "",
             "V": "战胜",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "worst",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "有益的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -841,20 +870,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "helpful for sb. to do sth. 有助于某人做某事",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "helpful for sb. to do sth. 有助于某人做某事",
         "english": "helpful",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "基础工作",
@@ -862,20 +892,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "groundwork",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "工作",
@@ -883,20 +914,21 @@
             "VI": "",
             "V": "工作",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "work",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "有教育意义的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -904,20 +936,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "instructive",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "原告",
@@ -925,20 +958,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "accuser",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "贫困",
@@ -946,20 +980,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "poverty",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "富有成效的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -967,20 +1002,21 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "fruitful",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "动机",
@@ -988,12 +1024,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "",
+        "PREPPhrase": "",
         "english": "motivation",
         "days": 32,
+        "discriminate": "",
         "category": "BASIS"
     }
 ]

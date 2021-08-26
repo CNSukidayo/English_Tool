@@ -7,7 +7,7 @@ import java.util.Map;
  * @author sukidayo
  * @date 2021/1/26
  */
-public class Word {
+public class Word2 {
     private String english;
     /**
      * Key:词性 Value:对应的中文
@@ -19,7 +19,7 @@ public class Word {
     private String PREPPhrase;
     private String discriminate;
 
-    public Word() {
+    public Word2() {
         allChineseMap = new HashMap<>(PartOfSpeechEnum.values().length);
     }
 

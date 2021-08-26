@@ -12,12 +12,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\advantageous.mp3",
+        "PREPPhrase": "",
         "english": "advantageous",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -33,12 +34,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "买得起;抽得出(时间);提供"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\afford.mp3",
+        "PREPPhrase": "",
         "english": "afford",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -54,12 +56,13 @@
             "VI": "",
             "V": "分析",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\analyse.mp3",
+        "PREPPhrase": "",
         "english": "analyse",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -75,12 +78,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "on/upon analysisi 经分析\nin the final/last analysis 总之\ndo/carry out/conduct an analysis 进行分析",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\analysis.mp3",
+        "PREPPhrase": "on/upon analysisi 经分析\nin the final/last analysis 总之\ndo/carry out/conduct an analysis 进行分析",
         "english": "analysis",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -96,12 +100,13 @@
             "VI": "发生;由...引起;起来",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "arise from/out of... 由...引起",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\arise.mp3",
+        "PREPPhrase": "arise from/out of... 由...引起",
         "english": "arise",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -117,12 +122,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be beneficial to... 对...有益的",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\beneficial.mp3",
+        "PREPPhrase": "be beneficial to... 对...有益的",
         "english": "beneficial",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -138,12 +144,13 @@
             "VI": "",
             "V": "有益于",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "benefit from/by... 从...中获益",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\benefit.mp3",
+        "PREPPhrase": "benefit from/by... 从...中获益",
         "english": "benefit",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -159,12 +166,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "cause and effect 因果关系\ncause sb./sth. to do sth. 促使某人/某物做某事",
             "VT": "促使"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\cause.mp3",
+        "PREPPhrase": "cause and effect 因果关系\ncause sb./sth. to do sth. 促使某人/某物做某事",
         "english": "cause",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -180,12 +188,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\commodity.mp3",
+        "PREPPhrase": "",
         "english": "commodity",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -201,12 +210,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "draw/come to/reach a conclusion 得出结论\nmake a conclusion 下结论",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\conclusion.mp3",
+        "PREPPhrase": "draw/come to/reach a conclusion 得出结论\nmake a conclusion 下结论",
         "english": "conclusion",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -222,12 +232,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "in consequence 因此\nin consequence of 由于",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\consequence.mp3",
+        "PREPPhrase": "in consequence 因此\nin consequence of 由于",
         "english": "consequence",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -243,12 +254,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\consequent.mp3",
+        "PREPPhrase": "",
         "english": "consequent",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -264,12 +276,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "包含,容纳"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\contain.mp3",
+        "PREPPhrase": "",
         "english": "contain",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -285,12 +298,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\container.mp3",
+        "PREPPhrase": "",
         "english": "container",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -306,12 +320,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "创造"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\create.mp3",
+        "PREPPhrase": "",
         "english": "create",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -327,12 +342,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "take advantage of 利用\nshow sth. to advantage 使某物优点突出",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\adavantage.mp3",
+        "PREPPhrase": "take advantage of 利用\nshow sth. to advantage 使某物优点突出",
         "english": "adavantage",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -348,12 +364,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "reach/come to a decision 做出决定",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\decision.mp3",
+        "PREPPhrase": "reach/come to a decision 做出决定",
         "english": "decision",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -369,12 +386,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "the increase/decrease in sth. 某事物的增长/减少",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\decrease.mp3",
+        "PREPPhrase": "the increase/decrease in sth. 某事物的增长/减少",
         "english": "decrease",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -390,12 +408,13 @@
             "VI": "变坏",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\deteriorate.mp3",
+        "PREPPhrase": "",
         "english": "deteriorate",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -411,12 +430,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "导演"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\direct.mp3",
+        "PREPPhrase": "",
         "english": "direct",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -432,12 +452,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\economic.mp3",
+        "PREPPhrase": "",
         "english": "economic",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -453,12 +474,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "a capitalist economy 资本主义经济",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\economy.mp3",
+        "PREPPhrase": "a capitalist economy 资本主义经济",
         "english": "economy",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -474,12 +496,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "排除"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\eliminate.mp3",
+        "PREPPhrase": "",
         "english": "eliminate",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -495,12 +518,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\elimination.mp3",
+        "PREPPhrase": "",
         "english": "elimination",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -516,12 +540,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\especially.mp3",
+        "PREPPhrase": "",
         "english": "especially",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -537,12 +562,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\essay.mp3",
+        "PREPPhrase": "",
         "english": "essay",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -558,12 +584,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "take exception to (强烈得)反对\nwithout exception 无一例外\nwith the exception of... 除了..<body><html>",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\exception.mp3",
+        "PREPPhrase": "take exception to (强烈得)反对\nwithout exception 无一例外\nwith the exception of... 除了..<body><html>",
         "english": "exception",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -579,12 +606,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "exclude sb. from doing sth. 不让某人做某事",
             "VT": "不包括"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\exclude.mp3",
+        "PREPPhrase": "exclude sb. from doing sth. 不让某人做某事",
         "english": "exclude",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -600,12 +628,13 @@
             "VI": "",
             "V": "偏袒;有助于",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "do sb. a favour 帮助某人\nin favour of 支持\nin sb.'s favour 有利于某人",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\favour.mp3",
+        "PREPPhrase": "do sb. a favour 帮助某人\nin favour of 支持\nin sb.'s favour 有利于某人",
         "english": "favour",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -621,12 +650,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\feasible.mp3",
+        "PREPPhrase": "",
         "english": "feasible",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -642,12 +672,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\fiction.mp3",
+        "PREPPhrase": "",
         "english": "fiction",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -663,12 +694,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\financial.mp3",
+        "PREPPhrase": "",
         "english": "financial",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -684,12 +716,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "创造"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\generate.mp3",
+        "PREPPhrase": "",
         "english": "generate",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -705,12 +738,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\generation.mp3",
+        "PREPPhrase": "",
         "english": "generation",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -726,12 +760,13 @@
             "VI": "毕业",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\graduate.mp3",
+        "PREPPhrase": "",
         "english": "graduate",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -747,12 +782,13 @@
             "VI": "(偶然)发送;碰巧",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "happen on/upon 偶然发现\nhappen to do sth. 碰巧做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\happen.mp3",
+        "PREPPhrase": "happen on/upon 偶然发现\nhappen to do sth. 碰巧做某事",
         "english": "happen",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -768,12 +804,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\happening.mp3",
+        "PREPPhrase": "",
         "english": "happening",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -789,12 +826,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\impossible.mp3",
+        "PREPPhrase": "",
         "english": "impossible",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -810,12 +848,13 @@
             "VI": "",
             "V": "改善;变得更好",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "improve up/upon 做出比...更好的成绩",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\improve.mp3",
+        "PREPPhrase": "improve up/upon 做出比...更好的成绩",
         "english": "improve",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -831,12 +870,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "包含"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\include.mp3",
+        "PREPPhrase": "",
         "english": "include",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -852,12 +892,13 @@
             "VI": "",
             "V": "增加",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "increase by 增加了(表示增加的幅度)\nincrease to 增加到(表示增加的结果)",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\increase.mp3",
+        "PREPPhrase": "increase by 增加了(表示增加的幅度)\nincrease to 增加到(表示增加的结果)",
         "english": "increase",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -873,12 +914,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "induce sb. to do sth. 引诱某人做某事",
             "VT": "引诱;导致"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\induce.mp3",
+        "PREPPhrase": "induce sb. to do sth. 引诱某人做某事",
         "english": "induce",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -894,12 +936,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\inducement.mp3",
+        "PREPPhrase": "",
         "english": "inducement",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -915,12 +958,13 @@
             "VI": "",
             "V": "领导;过...生活",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "lead a...life 过着...的生活\nlead to 导致\ntake the lead 局领先定位\nlead up to...作为...的先导",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\lead.mp3",
+        "PREPPhrase": "lead a...life 过着...的生活\nlead to 导致\ntake the lead 局领先定位\nlead up to...作为...的先导",
         "english": "lead",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -936,12 +980,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be liable for... 对...有责任\nbe liable to... 易于...\n",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\liable.mp3",
+        "PREPPhrase": "be liable for... 对...有责任\nbe liable to... 易于...\n",
         "english": "liable",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -957,12 +1002,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\likely.mp3",
+        "PREPPhrase": "",
         "english": "likely",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -978,12 +1024,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "(大量)制造"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\manufacture.mp3",
+        "PREPPhrase": "",
         "english": "manufacture",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -999,12 +1046,13 @@
             "VI": "",
             "V": "乘;繁殖;(使)倍增",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\mulitply.mp3",
+        "PREPPhrase": "",
         "english": "mulitply",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1020,12 +1068,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\novel.mp3",
+        "PREPPhrase": "",
         "english": "novel",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1041,12 +1090,13 @@
             "VI": "发生;存在于",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "It occur to sb. that... 某人想起了...\n... occur to sb. ...在出现在某人脑海里",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\occur.mp3",
+        "PREPPhrase": "It occur to sb. that... 某人想起了...\n... occur to sb. ...在出现在某人脑海里",
         "english": "occur",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1062,12 +1112,13 @@
             "VI": "",
             "V": "建议;报价",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "offer to do sth. 主动要做某事\noffer sth. to sb. 提供某人某物\noffer sb. sth. 提供某人某物",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\offer.mp3",
+        "PREPPhrase": "offer to do sth. 主动要做某事\noffer sth. to sb. 提供某人某物\noffer sb. sth. 提供某人某物",
         "english": "offer",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1083,12 +1134,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\offering.mp3",
+        "PREPPhrase": "",
         "english": "offering",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1104,12 +1156,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\outcome.mp3",
+        "PREPPhrase": "",
         "english": "outcome",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1125,12 +1178,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "at/from the outset 在一开始",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\outset.mp3",
+        "PREPPhrase": "at/from the outset 在一开始",
         "english": "outset",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1146,12 +1200,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "pay the penalty 付出代价",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\penalty.mp3",
+        "PREPPhrase": "pay the penalty 付出代价",
         "english": "penalty",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1167,12 +1222,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\possibility.mp3",
+        "PREPPhrase": "",
         "english": "possibility",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1188,12 +1244,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "as...as possibility 尽可能...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\possible.mp3",
+        "PREPPhrase": "as...as possibility 尽可能...",
         "english": "possible",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1209,12 +1266,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\potential.mp3",
+        "PREPPhrase": "",
         "english": "potential",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1230,12 +1288,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\potentiality.mp3",
+        "PREPPhrase": "",
         "english": "potentiality",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1251,12 +1310,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\probable.mp3",
+        "PREPPhrase": "",
         "english": "probable",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1272,12 +1332,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "制造;展示"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\produce.mp3",
+        "PREPPhrase": "",
         "english": "produce",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1293,12 +1354,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "gross domestic product (GDP)国内生产总值\ngross national product (GNP)国名生产总值",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\product.mp3",
+        "PREPPhrase": "gross domestic product (GDP)国内生产总值\ngross national product (GNP)国名生产总值",
         "english": "product",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1314,12 +1376,13 @@
             "VI": "",
             "V": "得益",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\profit.mp3",
+        "PREPPhrase": "",
         "english": "profit",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1335,12 +1398,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "规划;安排"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\programme.mp3",
+        "PREPPhrase": "",
         "english": "programme",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1356,12 +1420,13 @@
             "VI": "",
             "V": "勘探",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "in prospect 即将可能发送的",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\prospect.mp3",
+        "PREPPhrase": "in prospect 即将可能发送的",
         "english": "prospect",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1377,12 +1442,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "provide sth. for sb. 为某人提供某物\nprovide against 预防",
             "VT": "供应,提供"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\provide.mp3",
+        "PREPPhrase": "provide sth. for sb. 为某人提供某物\nprovide against 预防",
         "english": "provide",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1398,12 +1464,13 @@
             "VI": "",
             "V": "",
             "CONJ": "假如",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\provided.mp3",
+        "PREPPhrase": "",
         "english": "provided",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1419,12 +1486,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\provider.mp3",
+        "PREPPhrase": "",
         "english": "provider",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1440,12 +1508,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "reduce...by... 减少了\nreduce...to... 减少到\nreduce sb. to doing sth. 迫使某人做某事\n",
             "VT": "减少;迫使"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\reduce.mp3",
+        "PREPPhrase": "reduce...by... 减少了\nreduce...to... 减少到\nreduce sb. to doing sth. 迫使某人做某事\n",
         "english": "reduce",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1461,12 +1530,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\reduction.mp3",
+        "PREPPhrase": "",
         "english": "reduction",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1482,12 +1552,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "提供;使成为"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\render.mp3",
+        "PREPPhrase": "",
         "english": "render",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1503,12 +1574,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "reach on/into... 对...的研究",
             "VT": "研究"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\research.mp3",
+        "PREPPhrase": "reach on/into... 对...的研究",
         "english": "research",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1524,12 +1596,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\researcher.mp3",
+        "PREPPhrase": "",
         "english": "researcher",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1545,12 +1618,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "result in 导致\nresult from 由...导致",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\result.mp3",
+        "PREPPhrase": "result in 导致\nresult from 由...导致",
         "english": "result",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1566,12 +1640,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\scholar.mp3",
+        "PREPPhrase": "",
         "english": "scholar",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1587,12 +1662,13 @@
             "VI": "",
             "V": "驾驶;指导",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "steer clear of 绕开",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\steer.mp3",
+        "PREPPhrase": "steer clear of 绕开",
         "english": "steer",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1608,12 +1684,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "supply...to... 把...供应给...\nsupply...with... 向...供应...",
             "VT": "供应"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\supply.mp3",
+        "PREPPhrase": "supply...to... 把...供应给...\nsupply...with... 向...供应...",
         "english": "supply",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1629,12 +1706,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\technical.mp3",
+        "PREPPhrase": "",
         "english": "technical",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1650,12 +1728,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\technique.mp3",
+        "PREPPhrase": "",
         "english": "technique",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1671,12 +1750,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\technology.mp3",
+        "PREPPhrase": "",
         "english": "technology",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1692,12 +1772,13 @@
             "VI": "",
             "V": "引发",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be the trigger for sth. 成为引发某事的因素",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\trigger.mp3",
+        "PREPPhrase": "be the trigger for sth. 成为引发某事的因素",
         "english": "trigger",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1713,12 +1794,13 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "undergraduate course 大学课程",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\undergraduate.mp3",
+        "PREPPhrase": "undergraduate course 大学课程",
         "english": "undergraduate",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1734,12 +1816,13 @@
             "VI": "",
             "V": "提升;改善",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\upgrade.mp3",
+        "PREPPhrase": "",
         "english": "upgrade",
         "days": 1,
+        "discriminate": "",
         "category": "CORE"
     }
 ]

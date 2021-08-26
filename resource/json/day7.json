@@ -3,8 +3,8 @@
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -12,20 +12,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "解决;溶解"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\01solve.mp3",
+        "PREPPhrase": "",
         "english": "solve",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -33,20 +34,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "解决;溶液"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\02solution.mp3",
+        "PREPPhrase": "",
         "english": "solution",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -54,20 +56,21 @@
             "ADV": "",
             "V": "溶解;取消",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\03dissolve.mp3",
+        "PREPPhrase": "",
         "english": "dissolve",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "决心",
@@ -75,20 +78,21 @@
             "ADV": "",
             "V": "解决;决心",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "reslove to do sth. 下决心做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\04reslove.mp3",
+        "PREPPhrase": "reslove to do sth. 下决心做某事",
         "english": "reslove",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "解决",
@@ -96,20 +100,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\05resolution.mp3",
+        "PREPPhrase": "",
         "english": "resolution",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "唯一的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "脚底",
@@ -117,20 +122,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\06sole.mp3",
+        "PREPPhrase": "",
         "english": "sole",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "单个的;单身的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -138,20 +144,21 @@
             "ADV": "",
             "V": "选出",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "single out 选出",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\07single.mp3",
+        "PREPPhrase": "single out 选出",
         "english": "single",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "单数的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -159,20 +166,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\08singular.mp3",
+        "PREPPhrase": "",
         "english": "singular",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "唯一的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -180,20 +188,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\09unique.mp3",
+        "PREPPhrase": "",
         "english": "unique",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "进入;通道",
@@ -201,20 +210,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "access to 通往...的路\nhave access to 可利用;可获得",
             "VT": "存储计算机文件"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\10access.mp3",
+        "PREPPhrase": "access to 通往...的路\nhave access to 可利用;可获得",
         "english": "access",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "易进入的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -222,20 +232,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\11accessible.mp3",
+        "PREPPhrase": "",
         "english": "accessible",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "准入;入场费",
@@ -243,20 +254,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\12admission.mp3",
+        "PREPPhrase": "",
         "english": "admission",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "进入;条目",
@@ -264,20 +276,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\13entry.mp3",
+        "PREPPhrase": "",
         "english": "entry",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "事先的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "前进",
@@ -285,20 +298,21 @@
             "ADV": "",
             "V": "前进",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "in advance 事先",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\14advance.mp3",
+        "PREPPhrase": "in advance 事先",
         "english": "advance",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "进度",
@@ -306,20 +320,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\15advancement.mp3",
+        "PREPPhrase": "",
         "english": "advancement",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "进展",
@@ -327,20 +342,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "in progress 前进\nmake progress 取得进步",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\16progress.mp3",
+        "PREPPhrase": "in progress 前进\nmake progress 取得进步",
         "english": "progress",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -348,20 +364,21 @@
             "ADV": "",
             "V": "担保",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "assure sb. of sth. 向某人确保某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\17assure.mp3",
+        "PREPPhrase": "assure sb. of sth. 向某人确保某事",
         "english": "assure",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "保证",
@@ -369,20 +386,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be guaranteed to do sth. 必然会做某事",
             "VT": "担保"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\18guarantee.mp3",
+        "PREPPhrase": "be guaranteed to do sth. 必然会做某事",
         "english": "guarantee",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "担保人",
@@ -390,20 +408,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\19guarantor.mp3",
+        "PREPPhrase": "",
         "english": "guarantor",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -411,20 +430,21 @@
             "ADV": "",
             "V": "保证",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\20ensure.mp3",
+        "PREPPhrase": "",
         "english": "ensure",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "保证;抵押物",
@@ -432,20 +452,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "make a pledge to do sth. 发誓做某事",
             "VT": "保证"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\21pledge.mp3",
+        "PREPPhrase": "make a pledge to do sth. 发誓做某事",
         "english": "pledge",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "保证",
@@ -453,20 +474,21 @@
             "ADV": "",
             "V": "答应;保证",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "promise to do sth. 答应做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\22promise.mp3",
+        "PREPPhrase": "promise to do sth. 答应做某事",
         "english": "promise",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -474,20 +496,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "undertake to do sth. 答应做某事",
             "VT": "保证;从事"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\23undertake.mp3",
+        "PREPPhrase": "undertake to do sth. 答应做某事",
         "english": "undertake",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -495,20 +518,21 @@
             "ADV": "",
             "V": "宣誓",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "swear by... 以...名义发誓\nswear in 宣誓\nswear off 保证戒掉",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\24swear.mp3",
+        "PREPPhrase": "swear by... 以...名义发誓\nswear in 宣誓\nswear off 保证戒掉",
         "english": "swear",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -516,20 +540,21 @@
             "ADV": "",
             "V": "理解",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\25comprehend.mp3",
+        "PREPPhrase": "",
         "english": "comprehend",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -537,20 +562,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "理解;欣赏"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\26appreciate.mp3",
+        "PREPPhrase": "",
         "english": "appreciate",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "摘要",
@@ -558,20 +584,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "消化;理解"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\27digest.mp3",
+        "PREPPhrase": "",
         "english": "digest",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -579,20 +606,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be absorbed in... 全神贯注于...",
             "VT": "吸收;理解"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\28absorb.mp3",
+        "PREPPhrase": "be absorbed in... 全神贯注于...",
         "english": "absorb",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -600,20 +628,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "实现;知道;明白"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\29realise.mp3",
+        "PREPPhrase": "",
         "english": "realise",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -621,20 +650,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "expend...in/on doing sth. 在...上花费",
             "VT": "花费"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\30expend.mp3",
+        "PREPPhrase": "expend...in/on doing sth. 在...上花费",
         "english": "expend",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "花费",
@@ -642,20 +672,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\31expenditure.mp3",
+        "PREPPhrase": "",
         "english": "expenditure",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "风险",
@@ -663,20 +694,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "at/in hazard 处于危险中",
             "VT": "冒...风险"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\32hazard.mp3",
+        "PREPPhrase": "at/in hazard 处于危险中",
         "english": "hazard",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "花费",
@@ -684,20 +716,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "at the expense of 以...为代价",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\33expense.mp3",
+        "PREPPhrase": "at the expense of 以...为代价",
         "english": "expense",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "危险的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -705,20 +738,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\34hazardous.mp3",
+        "PREPPhrase": "",
         "english": "hazardous",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "风险",
@@ -726,20 +760,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "at the risk of 冒着...危险",
             "VT": "冒...的危险"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\35risk.mp3",
+        "PREPPhrase": "at the risk of 冒着...危险",
         "english": "risk",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "巨大的危险",
@@ -747,20 +782,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "in peril 在危险中\ndo sth. at one's peril 做某事要自担风险",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\36peril.mp3",
+        "PREPPhrase": "in peril 在危险中\ndo sth. at one's peril 做某事要自担风险",
         "english": "peril",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "威胁;凶兆",
@@ -768,20 +804,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\37threat.mp3",
+        "PREPPhrase": "",
         "english": "threat",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "快的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "快车",
@@ -789,20 +826,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "表达"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\38express.mp3",
+        "PREPPhrase": "",
         "english": "express",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "表达;词组;表情",
@@ -810,20 +848,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "beyond/past expression 无法表达或形容",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\39expression.mp3",
+        "PREPPhrase": "beyond/past expression 无法表达或形容",
         "english": "expression",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -831,20 +870,21 @@
             "ADV": "",
             "V": "暗示",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\40imply.mp3",
+        "PREPPhrase": "",
         "english": "imply",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "租约;出租",
@@ -852,20 +892,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "lease/rent sth. from sb. 从某人处租得某物\nlease/rent sth. to sb. 将某物出租给某人",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\41lease.mp3",
+        "PREPPhrase": "lease/rent sth. from sb. 从某人处租得某物\nlease/rent sth. to sb. 将某物出租给某人",
         "english": "lease",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -873,20 +914,21 @@
             "ADV": "",
             "V": "租用",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "rent at/for 以...出租",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\42rent.mp3",
+        "PREPPhrase": "rent at/for 以...出租",
         "english": "rent",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "租用",
@@ -894,20 +936,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "hire sth. out 出租某物\nhire sb. to do sth. 雇佣某人做某事",
             "VT": "租用"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\43hire.mp3",
+        "PREPPhrase": "hire sth. out 出租某物\nhire sb. to do sth. 雇佣某人做某事",
         "english": "hire",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "幻想的;新潮的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "想象",
@@ -915,20 +958,21 @@
             "ADV": "",
             "V": "想象",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "take a fancy to 喜欢上\nfancy doing sth. 喜欢做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\44fancy.mp3",
+        "PREPPhrase": "take a fancy to 喜欢上\nfancy doing sth. 喜欢做某事",
         "english": "fancy",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -936,20 +980,21 @@
             "ADV": "",
             "V": "更喜欢",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "prefer...to... 与...相比更喜欢\nprefer doing/to do 更喜欢做...\nprefer to do rather than do 与其做...不如做...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\45prefer.mp3",
+        "PREPPhrase": "prefer...to... 与...相比更喜欢\nprefer doing/to do 更喜欢做...\nprefer to do rather than do 与其做...不如做...",
         "english": "prefer",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "偏爱;优惠",
@@ -957,20 +1002,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\46preference.mp3",
+        "PREPPhrase": "",
         "english": "preference",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -978,20 +1024,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "管理;执行"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\47administer.mp3",
+        "PREPPhrase": "",
         "english": "administer",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -999,20 +1046,21 @@
             "ADV": "",
             "V": "管理;约束",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\48govern.mp3",
+        "PREPPhrase": "",
         "english": "govern",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1020,20 +1068,21 @@
             "ADV": "",
             "V": "管理",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\49manage.mp3",
+        "PREPPhrase": "",
         "english": "manage",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1041,20 +1090,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "控制;管理"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\50regulate.mp3",
+        "PREPPhrase": "",
         "english": "regulate",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "摘要;个人简历",
@@ -1062,20 +1112,21 @@
             "ADV": "",
             "V": "重新开始",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\51resume.mp3",
+        "PREPPhrase": "",
         "english": "resume",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1083,20 +1134,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "消耗"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\52consume.mp3",
+        "PREPPhrase": "",
         "english": "consume",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "属性",
@@ -1104,20 +1156,21 @@
             "ADV": "",
             "V": "把过错归于",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "attribute...to... 把...归因于...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\53attribute.mp3",
+        "PREPPhrase": "attribute...to... 把...归因于...",
         "english": "attribute",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "可归因于...的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1125,20 +1178,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\54attributable.mp3",
+        "PREPPhrase": "",
         "english": "attributable",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1146,20 +1200,21 @@
             "ADV": "",
             "V": "有助于",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "contribute to 有助于",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\55contribute.mp3",
+        "PREPPhrase": "contribute to 有助于",
         "english": "contribute",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "贡献;捐款",
@@ -1167,20 +1222,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\56contribution.mp3",
+        "PREPPhrase": "",
         "english": "contribution",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1188,20 +1244,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "分配"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\57distribute.mp3",
+        "PREPPhrase": "",
         "english": "distribute",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "分配",
@@ -1209,20 +1266,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\58distribution.mp3",
+        "PREPPhrase": "",
         "english": "distribution",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "合同",
@@ -1230,20 +1288,21 @@
             "ADV": "",
             "V": "订合同;感染疾病",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\59contract.mp3",
+        "PREPPhrase": "",
         "english": "contract",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "协议;交易",
@@ -1251,20 +1310,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "a great deal of... 大量的...\ndeal with 与...做生意;处理\ndeal in 经营",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\60deal.mp3",
+        "PREPPhrase": "a great deal of... 大量的...\ndeal with 与...做生意;处理\ndeal in 经营",
         "english": "deal",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "商人",
@@ -1272,20 +1332,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\61dealer.mp3",
+        "PREPPhrase": "",
         "english": "dealer",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "廉价货;交易",
@@ -1293,20 +1354,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "bargain with sb. about/over sth. 与某人就某物讲价\nbargain for/on 企图廉价获取",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\62bargain.mp3",
+        "PREPPhrase": "bargain with sb. about/over sth. 与某人就某物讲价\nbargain for/on 企图廉价获取",
         "english": "bargain",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "抽象的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "抽象派的艺术作品",
@@ -1314,20 +1376,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "in the abstract 抽象地",
             "VT": "抽取"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\63abstract.mp3",
+        "PREPPhrase": "in the abstract 抽象地",
         "english": "abstract",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "心不在焉的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1335,20 +1398,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\64abstracted.mp3",
+        "PREPPhrase": "",
         "english": "abstracted",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "具体的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "混泥土",
@@ -1356,20 +1420,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\65concrete.mp3",
+        "PREPPhrase": "",
         "english": "concrete",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "具体的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1377,20 +1442,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\66specific.mp3",
+        "PREPPhrase": "",
         "english": "specific",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "数字;图形",
@@ -1398,20 +1464,21 @@
             "ADV": "",
             "V": "判断;计算",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "figure out 计算出来;得出",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\67figure.mp3",
+        "PREPPhrase": "figure out 计算出来;得出",
         "english": "figure",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1419,20 +1486,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "calculate on 指望\nbe calculated to do sth. 打算或计划做某事",
             "VT": "计算;计划"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\68calculate.mp3",
+        "PREPPhrase": "calculate on 指望\nbe calculated to do sth. 打算或计划做某事",
         "english": "calculate",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "精明的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1440,20 +1508,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\69calculating.mp3",
+        "PREPPhrase": "",
         "english": "calculating",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "总数",
@@ -1461,20 +1530,21 @@
             "ADV": "",
             "V": "数;",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "count against 被认为对...不利\ncount down 倒计时\ncount on 指望\ncount...in 把...算入\ncount up 加起来",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\70count.mp3",
+        "PREPPhrase": "count against 被认为对...不利\ncount down 倒计时\ncount on 指望\ncount...in 把...算入\ncount up 加起来",
         "english": "count",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1482,20 +1552,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "计算"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\71compute.mp3",
+        "PREPPhrase": "",
         "english": "compute",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "政策",
@@ -1503,20 +1574,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\72policy.mp3",
+        "PREPPhrase": "",
         "english": "policy",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "政治;政治学",
@@ -1524,20 +1596,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\73politics.mp3",
+        "PREPPhrase": "",
         "english": "politics",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1545,20 +1618,21 @@
             "ADV": "",
             "V": "受苦",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "suffer from... 受...之苦",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\74suffer.mp3",
+        "PREPPhrase": "suffer from... 受...之苦",
         "english": "suffer",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "痛苦",
@@ -1566,20 +1640,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\75suffering.mp3",
+        "PREPPhrase": "",
         "english": "suffering",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1587,20 +1662,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be confronted with/by 面临",
             "VT": "遭遇;使面对"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\76confront.mp3",
+        "PREPPhrase": "be confronted with/by 面临",
         "english": "confront",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "冲突",
@@ -1608,20 +1684,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\77confrontation.mp3",
+        "PREPPhrase": "",
         "english": "confrontation",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "遭遇",
@@ -1629,20 +1706,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "遭遇"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\78encounter.mp3",
+        "PREPPhrase": "",
         "english": "encounter",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1650,20 +1728,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "经历"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\79undergo.mp3",
+        "PREPPhrase": "",
         "english": "undergo",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "分数;",
@@ -1671,20 +1750,21 @@
             "ADV": "",
             "V": "得分",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "on this score 就这个来说\nknow the score 知道真相",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\80score.mp3",
+        "PREPPhrase": "on this score 就这个来说\nknow the score 知道真相",
         "english": "score",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "球门;目标",
@@ -1692,20 +1772,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\81goal.mp3",
+        "PREPPhrase": "",
         "english": "goal",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "有关的",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1713,20 +1794,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be relevant to... 与...密切相关",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\82relevant.mp3",
+        "PREPPhrase": "be relevant to... 与...密切相关",
         "english": "relevant",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "相关性",
@@ -1734,20 +1816,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\83relevance.mp3",
+        "PREPPhrase": "",
         "english": "relevance",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1755,20 +1838,21 @@
             "ADV": "",
             "V": "",
             "CONJ": "除非",
-            "PHTASESANDCOLLOCATION": "not unless 只有",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\86unless.mp3",
+        "PREPPhrase": "not unless 只有",
         "english": "unless",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "负担",
@@ -1776,20 +1860,21 @@
             "ADV": "",
             "V": "加重压于",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be burdened with 背负着",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\87burden.mp3",
+        "PREPPhrase": "be burdened with 背负着",
         "english": "burden",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     },
     {
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "NUM": "",
             "ADJ": "",
+            "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
@@ -1797,12 +1882,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be determined to do sth. 决心做某事\ndetermine sb. to do sth. 使某人决心做某事\nbe determined by 取决于",
             "VT": "决心"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\88determine.mp3",
+        "PREPPhrase": "be determined to do sth. 决心做某事\ndetermine sb. to do sth. 使某人决心做某事\nbe determined by 取决于",
         "english": "determine",
         "days": 7,
+        "discriminate": "",
         "category": "CORE"
     }
 ]

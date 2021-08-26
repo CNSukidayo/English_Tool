@@ -12,12 +12,13 @@
             "ADV": "",
             "V": "尊敬;问候",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "with respect to 关于\nshow respect for 尊敬",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\01respect.mp3",
+        "PREPPhrase": "with respect to 关于\nshow respect for 尊敬",
         "english": "respect",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -33,12 +34,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\02respectful.mp3",
+        "PREPPhrase": "",
         "english": "respectful",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -54,12 +56,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "with/in awe 崇敬地\nbe/stand in ase of sb. 对某人非常崇敬\nhold sb. in awe 对某人非常崇敬",
             "VT": "使敬畏"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\03awe.mp3",
+        "PREPPhrase": "with/in awe 崇敬地\nbe/stand in ase of sb. 对某人非常崇敬\nhold sb. in awe 对某人非常崇敬",
         "english": "awe",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -75,12 +78,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\04awesome.mp3",
+        "PREPPhrase": "",
         "english": "awesome",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -96,12 +100,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "崇拜"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\05worship.mp3",
+        "PREPPhrase": "",
         "english": "worship",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -117,12 +122,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "admire sb. for... 因...而钦佩某人",
             "VT": "钦佩"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\06admire.mp3",
+        "PREPPhrase": "admire sb. for... 因...而钦佩某人",
         "english": "admire",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -138,12 +144,13 @@
             "ADV": "",
             "V": "嘲笑",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\07ridicule.mp3",
+        "PREPPhrase": "",
         "english": "ridicule",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -159,12 +166,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\08ridiculous.mp3",
+        "PREPPhrase": "",
         "english": "ridiculous",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -180,12 +188,13 @@
             "ADV": "",
             "V": "冒犯;使厌恶",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be offended with sb. for sth. 因某事而生某人的气\nbe offended at sth. 因某事而生气",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\09offend.mp3",
+        "PREPPhrase": "be offended with sb. for sth. 因某事而生某人的气\nbe offended at sth. 因某事而生气",
         "english": "offend",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -201,12 +210,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\10offence.mp3",
+        "PREPPhrase": "",
         "english": "offence",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -222,12 +232,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "feel contempt for 鄙视\nin contempt of sth. 藐视某物\nbeneath contempt 不值一提\nhold/gave sb. in contempt 轻视某人",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\11contempt.mp3",
+        "PREPPhrase": "feel contempt for 鄙视\nin contempt of sth. 藐视某物\nbeneath contempt 不值一提\nhold/gave sb. in contempt 轻视某人",
         "english": "contempt",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -243,12 +254,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\12contemptible.mp3",
+        "PREPPhrase": "",
         "english": "contemptible",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -264,12 +276,13 @@
             "ADV": "",
             "V": "抱怨;申诉",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "complain of doing sth. 抱怨做某事\ncomplain to sb. of/about sth. 向某人抱怨某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\13complain.mp3",
+        "PREPPhrase": "complain of doing sth. 抱怨做某事\ncomplain to sb. of/about sth. 向某人抱怨某事",
         "english": "complain",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -285,12 +298,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "complaint about... 对...的不满",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\14complaint.mp3",
+        "PREPPhrase": "complaint about... 对...的不满",
         "english": "complaint",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -306,12 +320,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "remind sb. of... 使某人想起...",
             "VT": "提醒;使想起"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\15remind.mp3",
+        "PREPPhrase": "remind sb. of... 使某人想起...",
         "english": "remind",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -327,12 +342,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "回想;召回"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\16recall.mp3",
+        "PREPPhrase": "",
         "english": "recall",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -348,12 +364,13 @@
             "ADV": "",
             "V": "扩大;膨胀",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\17expand.mp3",
+        "PREPPhrase": "",
         "english": "expand",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -369,12 +386,13 @@
             "ADV": "",
             "V": "使变大;被拉长",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "at a stretch 不停地",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\18stretch.mp3",
+        "PREPPhrase": "at a stretch 不停地",
         "english": "stretch",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -390,12 +408,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "延长;伸展"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\19extend.mp3",
+        "PREPPhrase": "",
         "english": "extend",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -411,12 +430,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\20extended.mp3",
+        "PREPPhrase": "",
         "english": "extended",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -432,12 +452,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be familiar to sb. 为某人所知的\nbe familiar with sth. 通晓某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\21familiar.mp3",
+        "PREPPhrase": "be familiar to sb. 为某人所知的\nbe familiar with sth. 通晓某事",
         "english": "familiar",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -453,12 +474,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\22familiarity.mp3",
+        "PREPPhrase": "",
         "english": "familiarity",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -474,12 +496,13 @@
             "ADV": "",
             "V": "暗示",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\23intimate.mp3",
+        "PREPPhrase": "",
         "english": "intimate",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -495,12 +518,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "acquaint oneself with sth.\nbe acquainted with sth. 使某人熟悉某事/物品",
             "VT": "使认识"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\24acquaint.mp3",
+        "PREPPhrase": "acquaint oneself with sth.\nbe acquainted with sth. 使某人熟悉某事/物品",
         "english": "acquaint",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -516,12 +540,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "have a nodding acquaintance with sb. 和某人有点头之交\nmake the acquaintance of sb. 结识某人\nmake sb's acquaintance 结识某人",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\25acquaintance.mp3",
+        "PREPPhrase": "have a nodding acquaintance with sb. 和某人有点头之交\nmake the acquaintance of sb. 结识某人\nmake sb's acquaintance 结识某人",
         "english": "acquaintance",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -537,12 +562,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "inform sb. of sth. 通知某人某事",
             "VT": "通知"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\26inform.mp3",
+        "PREPPhrase": "inform sb. of sth. 通知某人某事",
         "english": "inform",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -558,12 +584,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\27information.mp3",
+        "PREPPhrase": "",
         "english": "information",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -579,12 +606,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "notify sb. of sth. 通知某人某事",
             "VT": "通知"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\28notify.mp3",
+        "PREPPhrase": "notify sb. of sth. 通知某人某事",
         "english": "notify",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -600,12 +628,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "on the contrary 恰恰相反\nto the contrary 意思相反的\nbe contrary to... 与...相反的",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\29contrary.mp3",
+        "PREPPhrase": "on the contrary 恰恰相反\nto the contrary 意思相反的\nbe contrary to... 与...相反的",
         "english": "contrary",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -621,12 +650,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be opposite to... 在...对面",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\30opposite.mp3",
+        "PREPPhrase": "be opposite to... 在...对面",
         "english": "opposite",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -642,12 +672,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\31universal.mp3",
+        "PREPPhrase": "",
         "english": "universal",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -663,12 +694,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "in general 一般来说",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\32general.mp3",
+        "PREPPhrase": "in general 一般来说",
         "english": "general",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -684,12 +716,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\33worldwide.mp3",
+        "PREPPhrase": "",
         "english": "worldwide",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -705,12 +738,13 @@
             "ADV": "",
             "V": "在...上当船员",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\34crew.mp3",
+        "PREPPhrase": "",
         "english": "crew",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -726,12 +760,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\35personnel.mp3",
+        "PREPPhrase": "",
         "english": "personnel",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -747,12 +782,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "为...配备人员"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\36staff.mp3",
+        "PREPPhrase": "",
         "english": "staff",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -768,12 +804,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\37faculty.mp3",
+        "PREPPhrase": "",
         "english": "faculty",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -789,12 +826,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\38deputy.mp3",
+        "PREPPhrase": "",
         "english": "deputy",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -810,12 +848,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\39agent.mp3",
+        "PREPPhrase": "",
         "english": "agent",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -831,12 +870,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "授权"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\40delegate.mp3",
+        "PREPPhrase": "",
         "english": "delegate",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -852,12 +892,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be representative of... 代表...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\41representative.mp3",
+        "PREPPhrase": "be representative of... 代表...",
         "english": "representative",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -873,12 +914,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "surrender to 投降",
             "VT": "放弃"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\42surrender.mp3",
+        "PREPPhrase": "surrender to 投降",
         "english": "surrender",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -894,12 +936,13 @@
             "ADV": "",
             "V": "妥协;放弃",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "compromise with sb. on sth. 在某事上向某人妥协\nmake a compromise with sb. 与某人妥协",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\43compromise.mp3",
+        "PREPPhrase": "compromise with sb. on sth. 在某事上向某人妥协\nmake a compromise with sb. 与某人妥协",
         "english": "compromise",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -915,12 +958,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "yield to 屈服",
             "VT": "出厂"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\44yield.mp3",
+        "PREPPhrase": "yield to 屈服",
         "english": "yield",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -936,12 +980,13 @@
             "ADV": "",
             "V": "同意服从",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "submit to 提交\nsubmit oneself to 遵守",
             "VT": "提交"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\45submit.mp3",
+        "PREPPhrase": "submit to 提交\nsubmit oneself to 遵守",
         "english": "submit",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -957,12 +1002,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\46submission.mp3",
+        "PREPPhrase": "",
         "english": "submission",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -978,12 +1024,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\47belief.mp3",
+        "PREPPhrase": "",
         "english": "belief",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -999,12 +1046,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "in good faith 真诚\nlack faith in sth. 对某事缺乏信心",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\48faith.mp3",
+        "PREPPhrase": "in good faith 真诚\nlack faith in sth. 对某事缺乏信心",
         "english": "faith",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1020,12 +1068,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\49confidence.mp3",
+        "PREPPhrase": "",
         "english": "confidence",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1041,12 +1090,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\50confident.mp3",
+        "PREPPhrase": "",
         "english": "confident",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1062,12 +1112,13 @@
             "ADV": "",
             "V": "调整;适应",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "adjust...to... 使...适应...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\51adjust.mp3",
+        "PREPPhrase": "adjust...to... 使...适应...",
         "english": "adjust",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1083,12 +1134,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\52adjustment.mp3",
+        "PREPPhrase": "",
         "english": "adjustment",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1104,12 +1156,13 @@
             "ADV": "",
             "V": "适配;改造",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "adapt oneself to 使...(某人)适应",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\53adapt.mp3",
+        "PREPPhrase": "adapt oneself to 使...(某人)适应",
         "english": "adapt",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1125,12 +1178,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "coordinate with... 与...协调",
             "VT": "调节"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\54coordinate.mp3",
+        "PREPPhrase": "coordinate with... 与...协调",
         "english": "coordinate",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1146,12 +1200,13 @@
             "ADV": "",
             "V": "做手势",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "gesture for sb. to do sth. 示意某人做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\55gesture.mp3",
+        "PREPPhrase": "gesture for sb. to do sth. 示意某人做某事",
         "english": "gesture",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1167,12 +1222,13 @@
             "ADV": "",
             "V": "示意",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "set/put sth. in motion 做某事开始\ngo throughout the motions of doing sth. 做姿态做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\56motion.mp3",
+        "PREPPhrase": "set/put sth. in motion 做某事开始\ngo throughout the motions of doing sth. 做姿态做某事",
         "english": "motion",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1188,12 +1244,13 @@
             "ADV": "",
             "V": "发信号",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "signal to sb. to do sth. 示意某人做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\57signal.mp3",
+        "PREPPhrase": "signal to sb. to do sth. 示意某人做某事",
         "english": "signal",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1209,12 +1266,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\58grand.mp3",
+        "PREPPhrase": "",
         "english": "grand",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1230,12 +1288,13 @@
             "ADV": "",
             "V": "磨碎;摩擦",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "grind out 大量生产",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\59grind.mp3",
+        "PREPPhrase": "grind out 大量生产",
         "english": "grind",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1251,12 +1310,13 @@
             "ADV": "",
             "V": "承认",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "take it for grant 认为...理所当然",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\60grant.mp3",
+        "PREPPhrase": "take it for grant 认为...理所当然",
         "english": "grant",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1272,12 +1332,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "preserve...from... 保护...以免...",
             "VT": "保护;维持"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\61preserve.mp3",
+        "PREPPhrase": "preserve...from... 保护...以免...",
         "english": "preserve",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1293,12 +1354,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\62preservation.mp3",
+        "PREPPhrase": "",
         "english": "preservation",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1314,12 +1376,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "储备"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\63reserve.mp3",
+        "PREPPhrase": "",
         "english": "reserve",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1335,12 +1398,13 @@
             "ADV": "",
             "V": "沿轨道运行",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\64orbit.mp3",
+        "PREPPhrase": "",
         "english": "orbit",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1356,12 +1420,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\65aerial.mp3",
+        "PREPPhrase": "",
         "english": "aerial",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1377,12 +1442,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\66aviation.mp3",
+        "PREPPhrase": "",
         "english": "aviation",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1398,12 +1464,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\67craft.mp3",
+        "PREPPhrase": "",
         "english": "craft",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1419,12 +1486,13 @@
             "ADV": "",
             "V": "穿梭往返两地",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\68shuttle.mp3",
+        "PREPPhrase": "",
         "english": "shuttle",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1440,12 +1508,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be poles apart 大相径庭",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\69pole.mp3",
+        "PREPPhrase": "be poles apart 大相径庭",
         "english": "pole",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1461,12 +1530,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\70rod.mp3",
+        "PREPPhrase": "",
         "english": "rod",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1482,12 +1552,13 @@
             "ADV": "",
             "V": "黏住;插入",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be stuck on 迷恋于\nstick out ba...坚持到底\nstick to 坚持\nstick with 坚持做\nstick around 待在附近",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\71stick.mp3",
+        "PREPPhrase": "be stuck on 迷恋于\nstick out ba...坚持到底\nstick to 坚持\nstick with 坚持做\nstick around 待在附近",
         "english": "stick",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1503,12 +1574,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\72stickr.mp3",
+        "PREPPhrase": "",
         "english": "stickr",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1524,12 +1596,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\73eternal.mp3",
+        "PREPPhrase": "",
         "english": "eternal",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1545,12 +1618,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\74infinite.mp3",
+        "PREPPhrase": "",
         "english": "infinite",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1566,12 +1640,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "be limited to 限于",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\75limited.mp3",
+        "PREPPhrase": "be limited to 限于",
         "english": "limited",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1587,12 +1662,13 @@
             "ADV": "",
             "V": "使胜任;称职",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\76qualify.mp3",
+        "PREPPhrase": "",
         "english": "qualify",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1608,12 +1684,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "测定...的数量"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\77quantity.mp3",
+        "PREPPhrase": "",
         "english": "quantity",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1629,12 +1706,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\78theoretical.mp3",
+        "PREPPhrase": "",
         "english": "theoretical",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1650,12 +1728,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\79practical.mp3",
+        "PREPPhrase": "",
         "english": "practical",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1671,12 +1750,13 @@
             "ADV": "",
             "V": "碰撞;计算机瘫痪",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "crash into sth. 装上某物",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\80crash.mp3",
+        "PREPPhrase": "crash into sth. 装上某物",
         "english": "crash",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1692,12 +1772,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\81collapse.mp3",
+        "PREPPhrase": "",
         "english": "collapse",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1713,12 +1794,13 @@
             "ADV": "",
             "V": "散开",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\82scatter.mp3",
+        "PREPPhrase": "",
         "english": "scatter",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1734,12 +1816,13 @@
             "ADV": "",
             "V": "展开;传播",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "spread out 散开",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\83spread.mp3",
+        "PREPPhrase": "spread out 散开",
         "english": "spread",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1755,12 +1838,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "出没"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\84haunt.mp3",
+        "PREPPhrase": "",
         "english": "haunt",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1776,12 +1860,13 @@
             "ADV": "",
             "V": "建立",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\85institute.mp3",
+        "PREPPhrase": "",
         "english": "institute",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1797,12 +1882,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "gamble away 输光\ngamble on 把赌注押在...上\ntake a gamble 冒风险",
             "VT": "赌"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\86gamble.mp3",
+        "PREPPhrase": "gamble away 输光\ngamble on 把赌注押在...上\ntake a gamble 冒风险",
         "english": "gamble",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     },
     {
@@ -1818,12 +1904,13 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
             "VT": "持续"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\87span.mp3",
+        "PREPPhrase": "",
         "english": "span",
         "days": 10,
+        "discriminate": "",
         "category": "CORE"
     }
 ]
