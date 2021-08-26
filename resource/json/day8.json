@@ -1084,7 +1084,7 @@
             "V": "",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "address oneself to 处理",
-            "VT": "地址"
+            "VT": "地址;处理"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day8\\52address.mp3",
         "english": "address",
@@ -1482,7 +1482,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "if necessary 如果有必要",
+            "PHTASESANDCOLLOCATION": "if necessary 如果有必要\nnot necessary 不一定 ",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day8\\71necessary.mp3",

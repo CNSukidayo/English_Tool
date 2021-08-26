@@ -285,7 +285,7 @@
             "VI": "",
             "V": "打断;损坏;把...换成零钱",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "break away from... 摆脱\nbreak down 毁掉\nbreak in 非法闯入\nbreak off 打断\nbreak out 突然开始\nbreak through 冲破\nbreak up 粉碎;解散",
+            "PHTASESANDCOLLOCATION": "break away from... 摆脱\nbreak down 毁掉\nbreak in 非法闯入\nbreak off 打断\nbreak out 突然开始\nbreak through 冲破\nbreak up 粉碎;解散\nbreak up with sb. 与...分手",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day2\\break.mp3",
@@ -410,7 +410,7 @@
             "ADV": "",
             "VI": "",
             "V": "",
-            "CONJ": "",
+            "CONJ": "考虑到",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
@@ -663,7 +663,7 @@
             "VI": "",
             "V": "使发生",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "bring/carry/put...into effect 实行\ncome into effect 开始生效\nin effect 事实上\nhave an effect on 对...有作用\ntake effect 生效",
+            "PHTASESANDCOLLOCATION": "bring/carry/put...into effect 实行\ncome into/to effect 开始生效\nin effect 事实上\nhave an effect on 对...有作用\ntake effect 生效",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day2\\effect.mp3",
@@ -684,7 +684,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "expect to do sth. 预计做某事\nas ex-pected 按计划进行",
+            "PHTASESANDCOLLOCATION": "expect to do sth. 预计做某事\nas ex-pected 按计划进行\nexpect to + there be = expect there to be 期望有",
             "VT": "预计;盼望"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day2\\expect.mp3",
@@ -1012,7 +1012,7 @@
             "ART": "",
             "PRON": "",
             "NUM": "",
-            "ADJ": "刘邓的",
+            "ADJ": "较差的",
             "PREP": "",
             "N": "下级",
             "INT": "",
@@ -1020,7 +1020,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "inferior to...比...教差的",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day2\\inferior.mp3",

@@ -1104,7 +1104,7 @@
             "ADV": "",
             "V": "适配;改造",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "adapt oneself to 适应",
+            "PHTASESANDCOLLOCATION": "adapt oneself to 使...(某人)适应",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\53adapt.mp3",
@@ -1273,7 +1273,7 @@
             "V": "",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "preserve...from... 保护...以免...",
-            "VT": "保护"
+            "VT": "保护;维持"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\61preserve.mp3",
         "english": "preserve",
@@ -1585,7 +1585,7 @@
             "N": "",
             "VI": "",
             "ADV": "",
-            "V": "使胜任",
+            "V": "使胜任;称职",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""

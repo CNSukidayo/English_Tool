@@ -243,7 +243,7 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in sequence 按顺序\nkeep...in sequence 按顺序排列...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day9\\12sequence.mp3",
@@ -1777,7 +1777,7 @@
             "V": "",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "...deserves doing\ndeserves to be done ...应当被做",
-            "VT": "应受"
+            "VT": "应受;值得"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day9\\85deserve.mp3",
         "english": "deserve",

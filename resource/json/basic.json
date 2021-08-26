@@ -726,7 +726,7 @@
             "VI": "",
             "V": "做;带走;拿开;花费;接收;乘坐",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "take in 理解;收留;接受",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\35take.mp3",
@@ -936,7 +936,7 @@
             "VI": "",
             "V": "计划",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "carry out plan 执行计划",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\45plan.mp3",
@@ -1356,7 +1356,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "not hardly 几乎不",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\65hardly.mp3",
@@ -2175,7 +2175,7 @@
             "VI": "",
             "V": "使用;消费",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "used to过去常常\nget use to 习惯于\nmake use of 利用",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\104use.mp3",
@@ -2280,7 +2280,7 @@
             "VI": "",
             "V": "传递",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "hand out 分发\nat hand 在手边",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\109hand.mp3",
@@ -2364,7 +2364,7 @@
             "VI": "",
             "V": "放置;改变某人的状况",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "put out 出版生产\nput forward 提出\nput away 存钱",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\113put.mp3",
@@ -2406,7 +2406,7 @@
             "VI": "",
             "V": "帮助",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "could not help doing sth. 忍不住做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\115help.mp3",
@@ -2637,7 +2637,7 @@
             "VI": "",
             "V": "需要",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in needo of有...的需要",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\126need.mp3",
@@ -3346,7 +3346,7 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "狂热崇拜者",
+            "N": "狂热崇拜者;扇子",
             "ADV": "",
             "VI": "",
             "V": "",
@@ -3477,7 +3477,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "as soon as 一...就...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\166soon.mp3",
@@ -6286,7 +6286,7 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "尖端",
+            "N": "尖端;贴士",
             "ADV": "",
             "VI": "",
             "V": "给小费",
@@ -8176,7 +8176,7 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "费用",
+            "N": "费用;成本",
             "ADV": "",
             "VI": "",
             "V": "值多少钱",
@@ -9294,7 +9294,7 @@
             "VI": "",
             "V": "切",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "cut off 中断;切断\nut away 砍下;切掉\ncut in 插话\ncut through 穿过",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\443cut.mp3",
@@ -9966,7 +9966,7 @@
             "VI": "",
             "V": "等待",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "can't wait to do sth. 迫不及待地做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\475wait.mp3",
@@ -10092,7 +10092,7 @@
             "VI": "",
             "V": "不包括",
             "CONJ": "除了",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "except for 除了",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\481except.mp3",
@@ -10615,7 +10615,7 @@
             "N": "",
             "ADV": "",
             "VI": "",
-            "V": "问",
+            "V": "问;请求   ",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
@@ -10990,7 +10990,7 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "休息",
+            "N": "休息;其余的",
             "ADV": "",
             "VI": "",
             "V": "休息",
@@ -13368,7 +13368,7 @@
             "VI": "",
             "V": "接住;赶上",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "catch up 赶上",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\637catch.mp3",
@@ -13662,7 +13662,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "head for 朝...进发;引向好(坏)结果\nhead off 阻止",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\651head.mp3",
@@ -13704,7 +13704,7 @@
             "VI": "",
             "V": "生活;居住;活着",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "live on... 以...为生",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\653live.mp3",
@@ -14964,7 +14964,7 @@
             "VI": "",
             "V": "花费;度过",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "spend time doing sth. 花时间做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\713spend.mp3",
@@ -15006,7 +15006,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "right away 立刻",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\715right.mp3",
@@ -15067,7 +15067,7 @@
             "N": "星",
             "ADV": "",
             "VI": "",
-            "V": "",
+            "V": "主演",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
@@ -15279,7 +15279,7 @@
             "VI": "",
             "V": "使累",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "get tire of 对...的厌烦",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\728tire.mp3",
@@ -15652,7 +15652,7 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "角色",
+            "N": "角色;作用",
             "ADV": "",
             "VI": "",
             "V": "",
@@ -15804,7 +15804,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in memory of 作为对某人的纪念",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\753memory.mp3",
@@ -16534,7 +16534,7 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "交往",
+            "N": "公司;陪伴",
             "ADV": "",
             "VI": "",
             "V": "",
@@ -16707,7 +16707,7 @@
             "VI": "",
             "V": "拥有",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "own to 由...导致",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\796own.mp3",
@@ -17253,7 +17253,7 @@
             "VI": "",
             "V": "放置",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in place of取代",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\822place.mp3",
@@ -18198,7 +18198,7 @@
             "VI": "",
             "V": "看",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "look into 调查\nlook after 照顾",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\867look.mp3",
@@ -18387,7 +18387,7 @@
             "VI": "",
             "V": "建议;暗示",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "suggest doing sth. 建议做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\876suggest.mp3",
@@ -18555,7 +18555,7 @@
             "VI": "",
             "V": "介意",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "care for",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\884care.mp3",
@@ -18891,7 +18891,7 @@
             "VI": "",
             "V": "返回",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in return for 作为回报",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\900return.mp3",
@@ -19332,7 +19332,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "give up 放弃\ngive away 泄露\ngive off 发光;散发气味\ngive out 分发;劳累",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\921give.mp3",
@@ -19353,7 +19353,7 @@
             "VI": "",
             "V": "观看",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in view of考虑到",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\922view.mp3",
@@ -19537,12 +19537,12 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "",
+            "N": "跑步",
             "ADV": "",
             "VI": "",
-            "V": "跑",
+            "V": "跑;褪色",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "run away 逃离\nrun out of 耗尽",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\931run.mp3",
@@ -19731,7 +19731,7 @@
             "VI": "",
             "V": "核对",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "check in 入住\ncheck out 离开",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\940check.mp3",
@@ -20172,7 +20172,7 @@
             "VI": "",
             "V": "拉",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "pull out 退出\npull out 中断\npull off 完成\npull down 摧毁;拽下",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\961pull.mp3",
@@ -21033,7 +21033,7 @@
             "VI": "",
             "V": "点火",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in light of 按照...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1002light.mp3",
@@ -21512,7 +21512,7 @@
             "PREP": "",
             "INT": "",
             "N": "",
-            "ADV": "向前",
+            "ADV": "(时间、空间)向前",
             "VI": "",
             "V": "",
             "CONJ": "",
@@ -21890,13 +21890,14 @@
             "PREP": "",
             "INT": "",
             "N": "",
-            "ADV": "更远",
+            "ADV": "更远的",
             "VI": "",
             "V": "",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
+        "discriminate": "far的比较级和farther一样",
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1043further.mp3",
         "english": "further",
         "days": 31,
@@ -22713,9 +22714,10 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "make up 编造;组成;给...化妆\nmake up for 弥补\n make from 由...制成\nmake up with sb. 与...和解\nmake out 辨认出;弄清",
             "VT": "制造"
         },
+        "discriminate": "make up作组成时与consist of/be composed of/be comprised of的区别:Boys account for/make up 60 percent of our class.男生占到了我们班的60%.",
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1082make.mp3",
         "english": "make",
         "days": 31,
@@ -22797,7 +22799,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in praise of赞扬...",
             "VT": "赞扬"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1086praise.mp3",
@@ -23049,7 +23051,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "let out 泄露",
             "VT": "允许;假设"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1098let.mp3",
@@ -23070,7 +23072,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "be due to...归因于...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1099due.mp3",
@@ -23280,7 +23282,7 @@
             "VI": "",
             "V": "保持;保存",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "keep up 跟上\nkeep up with 跟上\nkeep off 远离\nkeep an eye on 留意",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1109keep.mp3",
@@ -23764,7 +23766,7 @@
             "V": "",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
-            "VT": "考试"
+            "VT": "考试;检查"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1132examine.mp3",
         "english": "examine",
@@ -23926,7 +23928,7 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "思想",
+            "N": "思想;大脑",
             "ADV": "",
             "VI": "",
             "V": "介意",
@@ -23935,7 +23937,7 @@
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1140mid.mp3",
-        "english": "mid",
+        "english": "mind",
         "days": 31,
         "category": "BASIS"
     },
@@ -23973,7 +23975,7 @@
             "VI": "",
             "V": "命令",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in order to 为了",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1142order.mp3",
@@ -24162,7 +24164,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "bring out 生产;出版;弄清楚\nbring on 引起\nbring in 推行;赚得\nbring up 养育;提出;呕吐\nbring about 导致;造成",
             "VT": "拿来"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1152bring.mp3",
@@ -24435,7 +24437,7 @@
             "VI": "",
             "V": "离开",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "leave sb. alone 不打扰某人\nleave out 丢弃\nleave in保留",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1165leave.mp3",
@@ -24792,7 +24794,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in the mood for sth. 有做某事的心情",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1182mood.mp3",
@@ -24976,7 +24978,7 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "赛跑",
+            "N": "赛跑;竞争;种族",
             "ADV": "",
             "VI": "",
             "V": "",
@@ -25144,7 +25146,7 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "单词",
+            "N": "单词;说的话;消息",
             "ADV": "",
             "VI": "",
             "V": "",
@@ -25611,7 +25613,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in case of以防;在...的情况下\nin case 万一(引导目的状从)",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1221case.mp3",
@@ -26325,9 +26327,10 @@
             "VI": "",
             "V": "回答",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "answer for 为...受惩罚;负有很大责任",
             "VT": ""
         },
+        "discriminate": "answer for = be responsible for",
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1255answer.mp3",
         "english": "answer",
         "days": 31,
@@ -26446,10 +26449,10 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "",
+            "N": "矿井",
             "ADV": "",
             "VI": "",
-            "V": "",
+            "V": "采矿",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
@@ -26845,13 +26848,13 @@
             "ADJ": "",
             "PREP": "",
             "INT": "",
-            "N": "经验",
+            "N": "经验;经历",
             "ADV": "",
             "VI": "",
             "V": "",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
-            "VT": "经验"
+            "VT": "经历"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1280experience.mp3",
         "english": "experience",
@@ -27081,7 +27084,7 @@
             "VI": "",
             "V": "生长",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "grow up 成年人",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1291grow.mp3",
@@ -27144,7 +27147,7 @@
             "VI": "",
             "V": "旋转;转弯",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "turn out 出版生产\nturn in 上交\nturn up 调大\nturn down 调小;拒绝\nturn around 转动\nturn away 拒绝...进入\nturn off 关上\nturn on 打开\nin turn 反过来",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1294turn.mp3",
@@ -27375,7 +27378,7 @@
             "VI": "",
             "V": "哭",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "cry out 大喊",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1305cry.mp3",
@@ -27753,7 +27756,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "left out 被忽视",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1323left.mp3",
@@ -28362,7 +28365,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "call for 需要",
             "VT": "称呼;给...打电话"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1352call.mp3",
@@ -28656,7 +28659,7 @@
             "VI": "",
             "V": "把...称为",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "in terms of就...而言;从...方面来讲",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1366term.mp3",
@@ -28845,7 +28848,7 @@
             "VI": "",
             "V": "敲",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "knock into 偶然碰到;撞上",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1375knock.mp3",
@@ -29265,7 +29268,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "pick up的六种意思:pick up the book 捡起书\npick up me at the front of gate 六点之前在前门用车接我.\npick up some French in business trip in Paris 在巴黎出差偶然习得法语(偶然习的)\npick up a bad cold 得了重感冒\npick up a bad habit 养成坏习惯\npick up TV program 接收电视节目\nhe began to pick up after taking some medicine 他服用了一些药物后开始好转(服用)\n\npick out 辨认出\npick on 捉弄",
             "VT": "采集"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1395pick.mp3",
@@ -30439,7 +30442,7 @@
             "N": "",
             "ADV": "",
             "VI": "",
-            "V": "决定",
+            "V": "  ",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
@@ -30735,7 +30738,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "power off关机",
             "VT": "提供动力"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1465power.mp3",
@@ -30906,6 +30909,7 @@
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
+        "discriminate": "far的比较级",
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1473farther.mp3",
         "english": "farther",
         "days": 31,
@@ -31155,7 +31159,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "several time 几次",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1485several.mp3",
@@ -31785,7 +31789,7 @@
             "VI": "倒下",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "fall into 陷入",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1515fall.mp3",
@@ -32016,7 +32020,7 @@
             "VI": "",
             "V": "付钱",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "pay off 有回报",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1526pay.mp3",
@@ -33087,7 +33091,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "rather than 而不是",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1577rather.mp3",
@@ -33568,7 +33572,7 @@
             "N": "裁缝",
             "ADV": "",
             "VI": "",
-            "V": "缝制",
+            "V": "量身定制",
             "CONJ": "",
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
@@ -33612,7 +33616,7 @@
             "VI": "",
             "V": "到来",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "come across偶然遇见\ncome up with 提出",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1602come.mp3",
@@ -33804,6 +33808,7 @@
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
+        "discriminate": "times 用作比较的倍数,instance:He can recite 5 times as many English new words a month as I can do.他每个月背诵的新英语单词是我的5倍",
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1611time.mp3",
         "english": "time",
         "days": 31,
@@ -34200,7 +34205,7 @@
             "VI": "",
             "V": "站立",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "stand for 代表",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\basic\\1630stand.mp3",

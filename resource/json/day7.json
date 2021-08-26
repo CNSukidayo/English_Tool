@@ -201,7 +201,7 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "access to 通往...的路",
+            "PHTASESANDCOLLOCATION": "access to 通往...的路\nhave access to 可利用;可获得",
             "VT": "存储计算机文件"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\10access.mp3",
@@ -1104,7 +1104,7 @@
             "ADV": "",
             "V": "把过错归于",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "attribute...to... 把...归因于...",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\53attribute.mp3",
@@ -1251,7 +1251,7 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "a great deal of... 大量的...\ndeal with 与...做生意\ndeal in 经营",
+            "PHTASESANDCOLLOCATION": "a great deal of... 大量的...\ndeal with 与...做生意;处理\ndeal in 经营",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\60deal.mp3",
@@ -1398,7 +1398,7 @@
             "ADV": "",
             "V": "判断;计算",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "figure out 计算出来",
+            "PHTASESANDCOLLOCATION": "figure out 计算出来;得出",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day7\\67figure.mp3",

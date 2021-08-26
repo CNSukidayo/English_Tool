@@ -474,7 +474,7 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "block off 封锁\nblock up 堵塞",
+            "PHTASESANDCOLLOCATION": "block off 封锁\nblock up 堵塞\nblock out 封闭",
             "VT": "阻塞;妨碍"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day6\\23block.mp3",
@@ -705,7 +705,7 @@
             "ADV": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "exchange...for... 以...换取...",
+            "PHTASESANDCOLLOCATION": "exchange...for... 以...换取...\nin exchange for 作为交换",
             "VT": "交易"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day6\\34exchange.mp3",
@@ -1020,7 +1020,7 @@
             "ADV": "",
             "V": "达到",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "achieve a great success 取得巨大成功",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day6\\49achieve.mp3",
@@ -1041,7 +1041,7 @@
             "ADV": "",
             "V": "成功;继承",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "",
+            "PHTASESANDCOLLOCATION": "succeed in doing sth. 成功做某事",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day6\\50succeed.mp3",

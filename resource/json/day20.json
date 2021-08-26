@@ -663,7 +663,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "PHTASESANDCOLLOCATION": "come to one's sense 醒过来\nin a sense 从某种意义上讲\ntalk sense 说话有理",
+            "PHTASESANDCOLLOCATION": "come to one's sense 醒过来\nin a sense 从某种意义上讲\ntalk sense 说话有理\nmake sense 合乎情理",
             "VT": "发觉"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day20\\33sense.mp3",
@@ -1212,6 +1212,7 @@
             "PHTASESANDCOLLOCATION": "",
             "VT": "传输;传递"
         },
+        "discriminate": "这个单词没有运输的意思!!!",
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day20\\59transmit.mp3",
         "english": "transmit",
         "days": 20,

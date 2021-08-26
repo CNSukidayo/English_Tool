@@ -1464,6 +1464,7 @@
             "PHTASESANDCOLLOCATION": "on display 在展览中",
             "VT": ""
         },
+        "discriminate": "display和product的区别:display一般用于物品陈列(展示)在某处.",
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day11\\70display.mp3",
         "english": "display",
         "days": 11,
@@ -1653,6 +1654,7 @@
             "PHTASESANDCOLLOCATION": "heal over 伤口愈合",
             "VT": ""
         },
+        "discriminate":"cure的基本意思是治愈,指用药物治愈某人的病.此时cure并不表示动作,而表示治愈的结果.而heal则表示伤口愈合或精神上的愈合.",
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day11\\79heal.mp3",
         "english": "heal",
         "days": 11,
@@ -1674,6 +1676,7 @@
             "PHTASESANDCOLLOCATION": "",
             "VT": ""
         },
+        "discriminate":"cure的基本意思是治愈,指用药物治愈某人的病.此时cure并不表示动作,而表示治愈的结果.而heal则表示伤口愈合或精神上的愈合.",
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day11\\80cure.mp3",
         "english": "cure",
         "days": 11,
