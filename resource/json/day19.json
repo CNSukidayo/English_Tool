@@ -47,7 +47,7 @@
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "ADJ": "遍历的",
+            "ADJ": "便利的",
             "NUM": "",
             "PREP": "",
             "INT": "",
@@ -103,7 +103,7 @@
             "VT": "察觉;领悟"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day19\\05perceive.mp3",
-        "PREPPhrase": "perceive sb. do/doing sth. 察觉到某人做/正在做某事",
+        "PREPPhrase": "perceive sb. do/doing sth. 察觉到某人做/正在做某事\nbe perceive as 被认为",
         "english": "perceive",
         "days": 19,
         "discriminate": "",

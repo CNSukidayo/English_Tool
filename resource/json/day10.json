@@ -799,6 +799,28 @@
             "NUM": "",
             "PREP": "",
             "INT": "",
+            "N": "监督人;主管人;指导人",
+            "VI": "",
+            "ADV": "",
+            "V": "",
+            "CONJ": "",
+            "VT": ""
+        },
+        "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\36staff.mp3",
+        "PREPPhrase": "",
+        "english": "supervisor",
+        "days": 10,
+        "discriminate": "",
+        "category": "CORE"
+    },
+    {
+        "allChineseMap": {
+            "ART": "",
+            "PRON": "",
+            "ADJ": "",
+            "NUM": "",
+            "PREP": "",
+            "INT": "",
             "N": "全体教师;才能;院系",
             "VI": "",
             "ADV": "",
@@ -1688,7 +1710,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day10\\77quantity.mp3",
         "PREPPhrase": "",
-        "english": "quantity",
+        "english": "quantify",
         "days": 10,
         "discriminate": "",
         "category": "CORE"

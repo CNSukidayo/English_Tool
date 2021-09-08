@@ -34,7 +34,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "VT": "买得起;抽得出(时间);提供"
+            "VT": "买得起;抽得出(时间);提供;承担得起"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\afford.mp3",
         "PREPPhrase": "",
@@ -346,7 +346,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\adavantage.mp3",
         "PREPPhrase": "take advantage of 利用\nshow sth. to advantage 使某物优点突出",
-        "english": "adavantage",
+        "english": "advantage",
         "days": 1,
         "discriminate": "",
         "category": "CORE"
@@ -430,7 +430,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "VT": "导演"
+            "VT": "指导;导演"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day1\\direct.mp3",
         "PREPPhrase": "",
@@ -779,7 +779,7 @@
             "INT": "",
             "N": "",
             "ADV": "",
-            "VI": "(偶然)发送;碰巧",
+            "VI": "(偶然)发生;碰巧",
             "V": "",
             "CONJ": "",
             "VT": ""

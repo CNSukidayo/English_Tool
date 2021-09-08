@@ -1336,7 +1336,7 @@
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day26\\65Medicare.mp3",
         "PREPPhrase": "",
-        "english": "Medicare",
+        "english": "medicare",
         "days": 26,
         "discriminate": "",
         "category": "COGNIYIVE"
@@ -2207,7 +2207,7 @@
             "NUM": "",
             "PREP": "",
             "INT": "",
-            "N": "不屈不挠",
+            "N": "卡路里",
             "VI": "",
             "ADV": "",
             "V": "",
@@ -2229,7 +2229,7 @@
             "NUM": "",
             "PREP": "",
             "INT": "",
-            "N": "卡路里",
+            "N": "公式",
             "VI": "",
             "ADV": "",
             "V": "",
@@ -2240,7 +2240,7 @@
         "PREPPhrase": "",
         "english": "formula",
         "days": 26,
-        "discriminate": "",
+        "discriminate": "formulate",
         "category": "COGNIYIVE"
     },
     {

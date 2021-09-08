@@ -719,7 +719,7 @@
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day5\\33fright.mp3",
-        "PREPPhrase": "get/have a fright 吓一跳\nwhit/inf fright 下得...\ntake fright 受惊吓",
+        "PREPPhrase": "get/have a fright 吓一跳\nwith/in fright 下得...\ntake fright 受惊吓",
         "english": "fright",
         "days": 5,
         "discriminate": "",
@@ -1617,7 +1617,7 @@
             "VI": "",
             "ADV": "",
             "V": "",
-            "CONJ": "尽管",
+            "CONJ": "尽管;然而",
             "VT": ""
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day5\\74although.mp3",

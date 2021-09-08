@@ -826,7 +826,7 @@
             "VI": "",
             "V": "",
             "CONJ": "",
-            "VT": "给...命名"
+            "VT": "给...命名;使享有权利"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day15\\38entitle.mp3",
         "PREPPhrase": "entitle sb. to do sth. 给某人做某事的权利或资格\nentitle sb. to sth. 使某人有权享有某物",
@@ -1411,12 +1411,12 @@
         "allChineseMap": {
             "ART": "",
             "PRON": "",
-            "ADJ": "硬的;不灵活的",
+            "ADJ": "艰难的;硬的;不灵活的",
             "NUM": "",
             "PREP": "",
             "INT": "",
             "N": "",
-            "ADV": "极其",
+            "ADV": "极其;僵硬的",
             "VI": "",
             "V": "",
             "CONJ": "",
@@ -1880,7 +1880,7 @@
             "N": "",
             "ADV": "",
             "VI": "",
-            "V": "翻译;同意",
+            "V": "翻译;同意;转变",
             "CONJ": "",
             "VT": ""
         },

@@ -719,7 +719,7 @@
             "VT": "预计;盼望"
         },
         "audioPath": "D:\\Java Project\\English Tool\\resource\\day2\\expect.mp3",
-        "PREPPhrase": "expect to do sth. 预计做某事\nas ex-pected 按计划进行\nexpect to + there be = expect there to be 期望有",
+        "PREPPhrase": "expect to do sth. 预计做某事\nas expected 按计划进行\nexpect to + there be = expect there to be 期望有",
         "english": "expect",
         "days": 2,
         "discriminate": "",
@@ -1129,7 +1129,7 @@
             "NUM": "",
             "PREP": "",
             "INT": "",
-            "N": "洞察力",
+            "N": "洞察力;深刻的了解",
             "ADV": "",
             "VI": "",
             "V": "",
